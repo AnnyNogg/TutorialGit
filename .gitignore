@@ -1,0 +1,8 @@
+#Mac: Finder files
+.DS_Store
+
+#Vim: Temporary files
+*~
+
+#Directory for temporary files
+tmp/
